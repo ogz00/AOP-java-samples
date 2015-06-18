@@ -1,2 +1,2 @@
-# AOP-java-samples
-Saimple usage of the Aspects
+# Aspect-Oriented Programming with Spring
+Simple usage of the Aspects with Spring Framework
