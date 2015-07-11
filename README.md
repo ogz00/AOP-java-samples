@@ -1,2 +1,2 @@
 # Aspect-Oriented Programming with Spring
-Simple usage of the Aspects with Spring Framework
+Simple usage of the AspectsJ with Spring Framework
